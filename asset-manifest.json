@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/validator/static/css/main.69eda509.chunk.css",
+    "main.js": "/validator/static/js/main.6f1f9276.chunk.js",
+    "main.js.map": "/validator/static/js/main.6f1f9276.chunk.js.map",
+    "runtime-main.js": "/validator/static/js/runtime-main.7a22b425.js",
+    "runtime-main.js.map": "/validator/static/js/runtime-main.7a22b425.js.map",
+    "static/js/2.0d993c57.chunk.js": "/validator/static/js/2.0d993c57.chunk.js",
+    "static/js/2.0d993c57.chunk.js.map": "/validator/static/js/2.0d993c57.chunk.js.map",
+    "index.html": "/validator/index.html",
+    "precache-manifest.0508c422c4993ac1dbd0f24b61ae58de.js": "/validator/precache-manifest.0508c422c4993ac1dbd0f24b61ae58de.js",
+    "service-worker.js": "/validator/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/validator/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.0d993c57.chunk.js.LICENSE.txt": "/validator/static/js/2.0d993c57.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a22b425.js",
+    "static/js/2.0d993c57.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.6f1f9276.chunk.js"
+  ]
+}
