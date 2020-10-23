@@ -2,7 +2,7 @@
   "name": "nav-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://simmer5.github.io/validator",
+  "homepage": "https://simmer5.github.io/validator",
   "dependencies": {
     "@material-ui/core": "^4.9.11",
     "@testing-library/jest-dom": "^4.2.4",
